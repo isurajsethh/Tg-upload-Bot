@@ -20,7 +20,7 @@ from pyrogram.raw import functions, types
 
 # ===================== CONFIGURATION =====================
 BOT_PASSWORD = os.environ.get("BOT_PASSWORD", "Boss@2011123")
-API_ID = int(os.environ.get("API_ID", "3167980"))
+API_ID = int(os.environ.get("API_ID", "31676980"))
 API_HASH = os.environ.get("API_HASH", "7b7838599c637648e6d164054208d2eb")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "YAHAN_APNA_BOT_TOKEN_DALO")
 MASTER_SESSION = os.environ.get("MASTER_SESSION", "YAHAN_APNA_MASTER_STRING_SESSION_DALO")
